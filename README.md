@@ -1,4 +1,5 @@
 # RIWAYAT-BELAJAR ANSAR SATTU
-1. Belajar Dicoding Belajar Dasar Pemrograman JavaScript 
-2. Belajar Dicoding Belajar Membuat Aplikasi Back-End untuk Pemula
+1. Belajar GIT
+2. Belajar Dasar Pemrograman JavaScript 
+3. Belajar Membuat Aplikasi Back-End untuk Pemula
 
